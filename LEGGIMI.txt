@@ -1,0 +1,4 @@
+1) Copia in questa cartella il tuo file delle domande e rinominalo esattamente: domande.json
+2) Trascina l'intera cartella su https://app.netlify.com/drop (con account gratuito)
+3) Apri il link .netlify.app su Safari dell'iPad > Condividi > Aggiungi alla schermata Home
+Per aggiornare le domande: sostituisci domande.json (con "versione" più alta) e ricarica la cartella su Netlify (Deploys > trascina la cartella).
